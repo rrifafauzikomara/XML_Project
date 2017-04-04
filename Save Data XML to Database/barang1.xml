@@ -1,0 +1,32 @@
+<logbarang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="barang1.xsd">
+	<barang>
+		<kode>M1112</kode>
+		<satuan>pc</satuan>
+		<harga>4100</harga>
+		<asal>
+			<pta>ladyrock</pta>
+			<emaila>ladyrock@yahoo.com</emaila>
+			<kodewila>10</kodewila>
+		</asal>
+		<tujuan>
+			<ptt>union</ptt>
+			<emailt>union@poltekpos.co.id</emailt>
+			<kodewilt>1001</kodewilt>
+		</tujuan>
+	</barang>
+	<barang>
+		<kode>M1122</kode>
+		<satuan>pc</satuan>
+		<harga>5000</harga>
+		<asal>
+			<pta>pbm</pta>
+			<emaila>pbm@gmail.com</emaila>
+			<kodewila>103</kodewila>
+		</asal>
+		<tujuan>
+			<ptt>mitra kencana</ptt>
+			<emailt>mitrakencana@yahoo.com</emailt>
+			<kodewilt>300</kodewilt>
+		</tujuan>
+	</barang>
+</logbarang>
